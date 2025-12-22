@@ -7,8 +7,11 @@ name = "pypi"
 scipy = "*"
 numpy = "*"
 uncertainties = "*"
+pandas = "*"
+matplotlib = "*"
 
 [dev-packages]
+spyder = "*"
 
 [requires]
-python_version = "3.13"
+python_version = "3.14"
